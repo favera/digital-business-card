@@ -1,0 +1,12 @@
+
+@font-face {
+  font-family: 'Inter', sans-serif;;
+  src: url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
+}
+
+body{
+  background: #23252C;
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter';
+}

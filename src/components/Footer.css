@@ -1,0 +1,10 @@
+.footer-section{
+    height: 65px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.social-icons{
+    margin: 0 8px;
+}

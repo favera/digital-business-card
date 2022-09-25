@@ -1,0 +1,14 @@
+.int-section{
+    padding: 0 35px;
+}
+
+.int-section h2{
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.int-section p{
+    font-size: 12px;
+    margin-top: 0;
+}

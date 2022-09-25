@@ -1,0 +1,14 @@
+.about-section{
+    padding: 0 35px;
+}
+
+.about-section h2{
+    font-size: 16px;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.about-section p{
+    font-size: 12px;
+    margin-top: 0;
+}
